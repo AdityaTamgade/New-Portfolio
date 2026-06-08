@@ -40,8 +40,8 @@ export function Navbar() {
           href="#home"
           className="font-mono text-sm font-bold tracking-tight"
         >
-          <span className="text-gradient">AT</span>
-          <span className="text-foreground">.dev</span>
+          <span className="text-gradient">Addyyy</span>
+          <span className="text-foreground">.in</span>
         </a>
 
         <ul className="hidden items-center gap-1 md:flex">
