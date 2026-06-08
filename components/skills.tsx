@@ -80,6 +80,18 @@ const categories: Category[] = [
       { name: 'Postman', level: 84 },
     ],
   },
+  {
+    icon: Code2,
+    title: 'Professional Skills',
+    color: '#3B82F6',
+    skills: [
+      { name: 'Leadership', level: 96 },
+      { name: 'Presentation Skills', level: 88 },
+      { name: 'Problem Solving', level: 81 },
+      { name: 'Critical Thinking', level: 87 },
+      { name: 'Decision Making', level: 89 },
+    ],
+  },
 ]
 
 function SkillBar({
